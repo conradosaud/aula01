@@ -1,0 +1,20 @@
+.menu{
+    background: #607D8B;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.menu a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.menu .carrinho strong{
+    padding: 5px 10px;
+    background: white;
+    color: #454545;
+    border-radius: 10px;
+    border: none;
+}
